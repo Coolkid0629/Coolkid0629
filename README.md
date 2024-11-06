@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- 🌱 I’m currently learning full stack MERN web development.
+- 😄 Pronouns: He/Him
+- 📫 How to reach me: email: kaustubh0629@gmail.com
 <!--
 **Coolkid0629/Coolkid0629** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
